@@ -35,3 +35,4 @@ Every app uses its own tag prefix (`<app>`, e.g. `zerodupe`):
 | App | Download |
 |---|---|
 | Zerodupe | [newest installer](https://github.com/adul-mo/app-releases/releases/tag/zerodupe-latest) · [all versions](https://github.com/adul-mo/app-releases/releases?q=zerodupe-v&expanded=true) |
+| DowniQ | [newest installer](https://github.com/adul-mo/app-releases/releases/tag/downiq-latest) · [all versions](https://github.com/adul-mo/app-releases/releases?q=downiq-v&expanded=true) |
