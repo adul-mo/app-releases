@@ -36,3 +36,4 @@ Every app uses its own tag prefix (`<app>`, e.g. `zerodupe`):
 |---|---|
 | Zerodupe | [newest installer](https://github.com/adul-mo/app-releases/releases/tag/zerodupe-latest) · [all versions](https://github.com/adul-mo/app-releases/releases?q=zerodupe-v&expanded=true) |
 | DowniQ | [newest installer](https://github.com/adul-mo/app-releases/releases/tag/downiq-latest) · [all versions](https://github.com/adul-mo/app-releases/releases?q=downiq-v&expanded=true) |
+| Velix Media | [newest installer](https://github.com/adul-mo/app-releases/releases/tag/velix-media-latest) · [all versions](https://github.com/adul-mo/app-releases/releases?q=velix-media-v&expanded=true) |
